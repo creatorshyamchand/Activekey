@@ -20,4 +20,11 @@
     "expiresAt": "2039-11-30",
     "allowOffline": true
   }
+  {
+    "id": "cf3c90b5ed58667e",
+    "username": "nexxon",
+    "password": "nexxon@1234",
+    "expiresAt": "2039-11-30",
+    "allowOffline": true
+  }
 ]
